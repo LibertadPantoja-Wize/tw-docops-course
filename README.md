@@ -1,5 +1,5 @@
 # tw-docops-course
-DocOps course for Technical Writers repository
+TW DocOps Course repository
 
 Hello, I am Libertad Pantoja, and this is my Readme example for the DocOps course for Technical Writers. I am not sure about what to write here. In the meanwhile, you can visit my writing sites:
 
