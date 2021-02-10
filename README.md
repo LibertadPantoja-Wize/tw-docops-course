@@ -16,7 +16,7 @@ These are some of my favorite short stories:
 | [A la deriva](https://www.ingenieria.unam.mx/dcsyhfi/material_didactico/Literatura_Hispanoamericana_Contemporanea/Autores_Q/QUIROGA/A.pdf) | [Catskin](http://www.lightspeedmagazine.com/fiction/catskin/) |
 | [Futura nereida](https://www.lashistorias.com.mx/index.php/archivo/futura-nereida/)      |  [All you, zombies](https://gist.github.com/defunkt/759182/ad44c6135d168ae54503a281bb7e1a24c6c2ea0c)  |
 
-If for any reason you love this repo and want to clone it, you only need to type:
+If for some reason you decided that you love this repo, and you want to clone it, you only need to type:
 ```
-git clone
+git clone https://github.com/LibertadPantoja-Wize/tw-docops-course.git
 ```
