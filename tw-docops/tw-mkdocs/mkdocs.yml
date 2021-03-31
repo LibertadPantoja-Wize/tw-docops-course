@@ -1,7 +1,12 @@
-site_name: Wizeline MkDocs Template
+site_name: Libertad Pantoja's Profile
 nav:
-  - Home: index.md
-  - About: about.md
+  - My profile:
+    - Home: index.md
+    - Skills:
+      - Advanced: advanced.md
+      - Intermediate: intermediate.md
+      - Novice: novice.md
+    - More about me: about.md
 
 theme:
   name: material
