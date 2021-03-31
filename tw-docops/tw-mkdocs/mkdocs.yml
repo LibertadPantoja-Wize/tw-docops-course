@@ -1,7 +1,8 @@
 site_name: Libertad Pantoja's Profile
 nav:
-  - Home: index.md
-  - About me: about.md
+  - My profile:
+    - Home: index.md
+    - More about me: about.md
 
 theme:
   name: material
