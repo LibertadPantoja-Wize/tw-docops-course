@@ -19,6 +19,14 @@ Here is another list:
 * Another item
 * Another item
 
+These are some of my favorite short stories:
+
+| Spanish           | English  |
+|:-------------:| :-----:|
+| [A la deriva](https://www.ingenieria.unam.mx/dcsyhfi/material_didactico/Literatura_Hispanoamericana_Contemporanea/Autores_Q/QUIROGA/A.pdf) | [Catskin](http://www.lightspeedmagazine.com/fiction/catskin/) |
+| [Futura nereida](https://www.lashistorias.com.mx/index.php/archivo/futura-nereida/)      |  [All you, zombies](https://gist.github.com/defunkt/759182/ad44c6135d168ae54503a281bb7e1a24c6c2ea0c)  |
+
+
 ## Adding a New Page
 
 Add new pages to your site doing the following:
