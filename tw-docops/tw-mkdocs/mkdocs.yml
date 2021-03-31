@@ -2,6 +2,10 @@ site_name: Libertad Pantoja's Profile
 nav:
   - My profile:
     - Home: index.md
+    - Skills:
+      - Advanced: advanced.md
+      - Intermediate: intermediate.md
+      - Novice: novice.md
     - More about me: about.md
 
 theme:
