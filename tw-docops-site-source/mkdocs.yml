@@ -1,0 +1,16 @@
+site_name: Libertad Pantoja's Profile
+nav:
+  - Home: index.md
+  - Skills:
+    - Advanced: advanced.md
+    - Intermediate: intermediate.md
+    - Novice: novice.md
+  - Experience: experience.md
+  - More about me: more_about_me.md
+
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: indigo
+  logo: images/wizeline_isotype.png
