@@ -1,4 +1,4 @@
-# More about me
+# More About Me
 
 I love writing speculative fiction short stories. You can read about my creative process here:
 
@@ -15,6 +15,6 @@ These are some of my favorite short stories:
 
 Or, if creative writing is not your thing, you can visit my personal Github or read one of my papers (they are far from spectacular but I did them):
 
-1. [Personal Github](https://github.com/LiberPH)
+1. [Personal GitHub](https://github.com/LiberPH)
 2. [Frontier's Loop profile](https://loop.frontiersin.org/people/200142/overview)
 
