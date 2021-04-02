@@ -1,5 +1,5 @@
 # More About Me
-
+---
 I love writing speculative fiction short stories. You can read about my creative process here:
 
 * English: [Flying Fugu in substack](https://flyingfugu.substack.com/)
