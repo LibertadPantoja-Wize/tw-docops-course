@@ -14,11 +14,12 @@
     background-color: rgba(13, 154, 171, 67);
 }
 
-.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg {
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
     display: block;
     width: 100px;
     fill: currentColor;
-}
+    }
+
 
 /* Main background*/
 
